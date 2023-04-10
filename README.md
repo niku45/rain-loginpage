@@ -1,5 +1,6 @@
 # rain-loginpage
 
+Reponsive Login Page
 
-Link of the Demo
+Live Demo:
 https://niku45.github.io/rain-loginpage/
